@@ -40,7 +40,7 @@ _0929test_
 - [x] @BRUCESKY
 - [ ] BRSSY
 
-ˋˋˋJAVA
+ˋˋˋjavascript
 @Data
 @AllArgsController
 class Topic {
