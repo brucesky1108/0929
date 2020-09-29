@@ -40,11 +40,11 @@ _0929test_
 - [x] @BRUCESKY
 - [ ] BRSSY
 
- ˋˋˋ javascript
+ˋˋˋjavascript
 @Data
 @AllArgsController
 class Topic {
   private String topci;
   private int click;
 }
- ˋˋˋ
+ˋˋˋ
