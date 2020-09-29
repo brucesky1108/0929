@@ -41,7 +41,7 @@ _0929test_
 - [ ] BRSSY
 
 ‵‵‵ javascript
-class Topic {
+function test() {
   private String topci;
   private int click;
 }
