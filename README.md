@@ -41,7 +41,16 @@ _0929test_
 - [ ] BRSSY
 
 ‵‵‵javascript
-function test() {
- console.log("look ma` , no spaces");
+const para = document.querySelector('p');
+
+para.addEventListener('click', updateName);
+
+function updateName() {
+  let name = prompt('輸入新的名字');
+  para.textContent = 'Player 1: ' + name;
 }
 ‵‵‵
+
+| one | TWO | 3  |
+------|-----|----|
+1|2|3|
