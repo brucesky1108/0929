@@ -41,8 +41,6 @@ _0929test_
 - [ ] BRSSY
 
 ˋˋˋjavascript
-@Data
-@AllArgsController
 class Topic {
   private String topci;
   private int click;
