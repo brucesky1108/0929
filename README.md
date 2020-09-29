@@ -40,9 +40,8 @@ _0929test_
 - [x] @BRUCESKY
 - [ ] BRSSY
 
- ‵‵‵javascript
+‵‵‵javascript
 function test() {
-  private String topci;
-  private int click;
+ console.log("look ma` , no spaces");
 }
 ‵‵‵
