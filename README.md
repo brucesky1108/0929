@@ -24,3 +24,6 @@ _0929test_
  3. Item 3
    * Item 1a
    * Item 1b
+  
+![GitHub Logo] (/brucesky1108/BR.jpg)
+
